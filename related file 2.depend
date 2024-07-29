@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1719879013 source:c:\users\pmls\desktop\oop final project\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+	<vector>
+
